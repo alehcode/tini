@@ -1,0 +1,90 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	font-family: "Crimson";
+}
+body{
+	background-color: #EAEAE9;
+}
+header{
+	height: 670px;
+	width: 100%;
+	background-color: #FCCE09;
+}
+.naranja{
+	width: 100px;
+	height: 40px;
+	background-color: orange;
+	padding: 10px;
+	margin-top: 50px;
+	margin-left: -60px;
+	color: white;
+}
+h1{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+h2{
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+.labo{
+	margin-top: 300px;
+}
+a{
+	text-decoration: none;
+	margin-left: 10px;
+	color: white;
+}
+nav{
+	margin-top: 50px;
+}
+.cajablanca{
+	height: 520px;
+	width: 430px;
+	background-color: white;
+	margin-left: 200px;
+	padding: 10px;
+	margin-top: 40px;
+}
+h3{
+	font-size: 25px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	color: #86868F;
+}
+.boton2{
+	width: 120px;
+	height: 35px;
+	background-color: orange;
+	padding: 10px 17px;
+	color: white;
+	text-align: center;
+	margin-left: 140px;
+}
+p{
+	color: #86868F;
+}
+.cajita{
+	height: 300px;
+	width: 300px;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+.cajablanca2{
+	height: 520px;
+	width: 430px;
+	background-color: white;
+	padding: 10px;
+	margin-top: 40px;
+}
+.pie{
+	background-color: #262624 ;
+    color: white; 
+    height: 80px;
+    padding: 30px 150px;
+    margin-top: 20px;
+}
